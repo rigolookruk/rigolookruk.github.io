@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #6ca9eb;
+}
+h1 {
+    color: aliceblue;
+}
